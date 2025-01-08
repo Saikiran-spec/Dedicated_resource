@@ -1,0 +1,1873 @@
+.element-about-us {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element-about-us .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 8173px;
+    position: relative;
+  }
+  
+  .element-about-us .quote {
+    position: absolute;
+    width: 149px;
+    height: 149px;
+    top: 1011px;
+    left: 87px;
+  }
+  
+  .element-about-us .frame {
+    display: flex;
+    flex-direction: column;
+    width: 158px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 15px;
+    left: 94px;
+  }
+  
+  .element-about-us .dedicated-resource {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 65px;
+    object-fit: cover;
+  }
+  
+  .element-about-us .navbar {
+    position: absolute;
+    width: 843px;
+    height: 35px;
+    top: 50px;
+    left: 493px;
+  }
+  
+  .element-about-us .overlap-group {
+    position: absolute;
+    width: 98px;
+    height: 35px;
+    top: 0;
+    left: 102px;
+    background-color: #145e58;
+    border-radius: 25px;
+  }
+  
+  .element-about-us .text-wrapper {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-about-us .text-wrapper-2 {
+    top: 6px;
+    left: 24px;
+    position: absolute;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #232323;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-about-us .text-wrapper-3 {
+    top: 5px;
+    left: 214px;
+    position: absolute;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #232323;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-about-us .text-wrapper-4 {
+    position: absolute;
+    top: 5px;
+    left: 347px;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #232323;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-about-us .text-wrapper-5 {
+    top: 5px;
+    left: 509px;
+    position: absolute;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #232323;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-about-us .text-wrapper-6 {
+    top: 5px;
+    left: 604px;
+    position: absolute;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #232323;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-about-us .text-wrapper-7 {
+    top: 5px;
+    left: 666px;
+    position: absolute;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #232323;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-about-us .text-wrapper-8 {
+    position: absolute;
+    width: 96px;
+    top: 3px;
+    left: 747px;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #232323;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-about-us .footer {
+    position: absolute;
+    width: 1446px;
+    height: 509px;
+    top: 7664px;
+    left: 0;
+    background-color: transparent;
+  }
+  
+  .element-about-us .overlap {
+    position: relative;
+    width: 1440px;
+    height: 509px;
+    background-color: #575757;
+  }
+  
+  .element-about-us .img {
+    position: absolute;
+    width: 306px;
+    height: 144px;
+    top: 60px;
+    left: 104px;
+    object-fit: cover;
+  }
+  
+  .element-about-us .line {
+    position: absolute;
+    width: 305px;
+    height: 1px;
+    top: 228px;
+    left: 104px;
+    object-fit: cover;
+  }
+  
+  .element-about-us .social-media-icon {
+    display: inline-flex;
+    align-items: center;
+    gap: 24px;
+    position: absolute;
+    top: 258px;
+    left: 160px;
+  }
+  
+  .element-about-us .img-2 {
+    position: relative;
+    width: 30px;
+    height: 30px;
+  }
+  
+  .element-about-us .text-wrapper-9 {
+    position: absolute;
+    top: 30px;
+    left: 608px;
+    opacity: 0.9;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 22px;
+    letter-spacing: -0.66px;
+    line-height: normal;
+  }
+  
+  .element-about-us .text-wrapper-10 {
+    position: absolute;
+    top: 30px;
+    left: 920px;
+    opacity: 0.9;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 22px;
+    letter-spacing: -0.66px;
+    line-height: normal;
+  }
+  
+  .element-about-us .frame-2 {
+    display: flex;
+    flex-direction: column;
+    width: 296px;
+    align-items: flex-start;
+    position: absolute;
+    top: 81px;
+    left: 920px;
+  }
+  
+  .element-about-us .address-schulist {
+    position: relative;
+    align-self: stretch;
+    height: 94px;
+    margin-top: -1.00px;
+    opacity: 0.9;
+    font-family: "Open Sans-SemiBold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: -0.60px;
+    line-height: normal;
+  }
+  
+  .element-about-us .span {
+    font-weight: 600;
+    letter-spacing: -0.12px;
+  }
+  
+  .element-about-us .text-wrapper-11 {
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    letter-spacing: -0.12px;
+  }
+  
+  .element-about-us .text-wrapper-12 {
+    font-family: "Open Sans-Regular", Helvetica;
+    letter-spacing: -0.12px;
+  }
+  
+  .element-about-us .p {
+    position: relative;
+    width: fit-content;
+    opacity: 0.9;
+    font-family: "Open Sans-SemiBold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: -0.60px;
+    line-height: normal;
+  }
+  
+  .element-about-us .text-wrapper-13 {
+    font-family: "Open Sans-Regular", Helvetica;
+    letter-spacing: -0.12px;
+    text-decoration: underline;
+  }
+  
+  .element-about-us .frame-3 {
+    display: flex;
+    flex-direction: column;
+    width: 154px;
+    align-items: flex-start;
+    gap: 20px;
+    position: absolute;
+    top: 71px;
+    left: 608px;
+  }
+  
+  .element-about-us .text-wrapper-14 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    opacity: 0.9;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: -0.60px;
+    line-height: normal;
+  }
+  
+  .element-about-us .text-wrapper-15 {
+    position: relative;
+    align-self: stretch;
+    opacity: 0.9;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: -0.60px;
+    line-height: normal;
+  }
+  
+  .element-about-us .text-wrapper-16 {
+    position: absolute;
+    top: 450px;
+    left: 102px;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-about-us .what-we-are {
+    position: absolute;
+    width: 360px;
+    height: 40px;
+    top: 177px;
+    left: 104px;
+  }
+  
+  .element-about-us .text-wrapper-17 {
+    position: absolute;
+    width: 364px;
+    top: 891px;
+    left: 218px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #232323;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: 88px;
+  }
+  
+  .element-about-us .key-features-of {
+    position: absolute;
+    width: 961px;
+    height: 85px;
+    top: 1781px;
+    left: 240px;
+  }
+  
+  .element-about-us .text-wrapper-18 {
+    position: absolute;
+    width: 192px;
+    top: 3603px;
+    left: 632px;
+    text-align: center;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #232323;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 60px;
+  }
+  
+  .element-about-us .overlap-2 {
+    position: absolute;
+    width: 1155px;
+    height: 224px;
+    top: 2529px;
+    left: 180px;
+  }
+  
+  .element-about-us .text-wrapper-19 {
+    position: absolute;
+    width: 1080px;
+    top: 44px;
+    left: 0;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #232323;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+  }
+  
+  .element-about-us .point-shape {
+    position: absolute;
+    width: 124px;
+    height: 165px;
+    top: 0;
+    left: 1031px;
+  }
+  
+  .element-about-us .text-wrapper-20 {
+    position: absolute;
+    width: 595px;
+    top: 1163px;
+    left: 100px;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #575757;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 40px;
+  }
+  
+  .element-about-us .we-are-a-team-of {
+    position: absolute;
+    width: 820px;
+    top: 256px;
+    left: 100px;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #575757;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 40px;
+  }
+  
+  .element-about-us .rectangle {
+    position: absolute;
+    width: 400px;
+    height: 497px;
+    top: 253px;
+    left: 936px;
+    object-fit: cover;
+  }
+  
+  .element-about-us .group {
+    position: absolute;
+    width: 607px;
+    height: 532px;
+    top: 1088px;
+    left: 729px;
+  }
+  
+  .element-about-us .overlap-3 {
+    position: relative;
+    width: 611px;
+    height: 532px;
+  }
+  
+  .element-about-us .rectangle-2 {
+    position: absolute;
+    width: 530px;
+    height: 467px;
+    top: 0;
+    left: 0;
+    background: linear-gradient(
+      180deg,
+      rgb(20, 94, 88) 0%,
+      rgb(36, 162, 156) 100%
+    );
+  }
+  
+  .element-about-us .rectangle-3 {
+    position: absolute;
+    width: 527px;
+    height: 456px;
+    top: 76px;
+    left: 49px;
+  }
+  
+  .element-about-us .overlap-group-wrapper {
+    position: absolute;
+    width: 348px;
+    height: 105px;
+    top: 418px;
+    left: 263px;
+  }
+  
+  .element-about-us .overlap-group-2 {
+    position: relative;
+    width: 344px;
+    height: 105px;
+  }
+  
+  .element-about-us .rectangle-4 {
+    position: absolute;
+    width: 344px;
+    height: 82px;
+    top: 23px;
+    left: 0;
+    background: linear-gradient(
+      180deg,
+      rgb(20, 94, 88) 0%,
+      rgb(36, 162, 156) 100%
+    );
+  }
+  
+  .element-about-us .text-wrapper-21 {
+    position: absolute;
+    width: 216px;
+    top: 31px;
+    left: 15px;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #d3d3d3;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 88px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .text-wrapper-22 {
+    position: absolute;
+    width: 100px;
+    top: 0;
+    left: 15px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: 88px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .frame-wrapper {
+    position: absolute;
+    width: 1231px;
+    height: 526px;
+    top: 1943px;
+    left: 105px;
+    background: linear-gradient(
+      180deg,
+      rgb(20, 94, 88) 0%,
+      rgb(41.7, 196, 183.49) 100%
+    );
+  }
+  
+  .element-about-us .frame-4 {
+    display: flex;
+    width: 1197px;
+    align-items: center;
+    gap: 24px;
+    position: relative;
+    top: 108px;
+    left: 34px;
+    overflow: hidden;
+  }
+  
+  .element-about-us .div-wrapper {
+    position: relative;
+    width: 342px;
+    height: 311px;
+  }
+  
+  .element-about-us .overlap-group-3 {
+    position: relative;
+    width: 338px;
+    height: 311px;
+    background-color: #f4f4f4;
+    border-radius: 12px;
+  }
+  
+  .element-about-us .text-wrapper-23 {
+    position: absolute;
+    top: 18px;
+    left: 21px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .text-wrapper-24 {
+    position: absolute;
+    width: 294px;
+    top: 66px;
+    left: 18px;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #575757;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 35px;
+  }
+  
+  .element-about-us .text-wrapper-25 {
+    position: absolute;
+    top: 18px;
+    left: 18px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .group-2 {
+    position: absolute;
+    width: 1227px;
+    height: 336px;
+    top: 2755px;
+    left: 108px;
+  }
+  
+  .element-about-us .group-3 {
+    position: absolute;
+    width: 401px;
+    height: 227px;
+    top: 0;
+    left: 826px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 2px 16px 2px #00000040;
+  }
+  
+  .element-about-us .frame-5 {
+    display: flex;
+    flex-direction: column;
+    width: 348px;
+    align-items: flex-start;
+    gap: 2px;
+    position: relative;
+    top: 28px;
+    left: 27px;
+  }
+  
+  .element-about-us .text-wrapper-26 {
+    position: relative;
+    align-self: stretch;
+    height: 41px;
+    margin-top: -1.00px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #232323;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .text-wrapper-27 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #575757;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 35px;
+  }
+  
+  .element-about-us .ellipse {
+    left: 576px;
+    background-color: #24a29c;
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 308px;
+    border-radius: 14px;
+  }
+  
+  .element-about-us .ellipse-2 {
+    left: 620px;
+    background-color: #dcdcdc;
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 308px;
+    border-radius: 14px;
+  }
+  
+  .element-about-us .group-4 {
+    position: absolute;
+    width: 401px;
+    height: 227px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 2px 16px 2px #00000040;
+  }
+  
+  .element-about-us .text-wrapper-28 {
+    position: relative;
+    align-self: stretch;
+    height: 41px;
+    margin-top: -1.00px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .group-5 {
+    position: absolute;
+    width: 401px;
+    height: 227px;
+    top: 40px;
+    left: 413px;
+    border-radius: 8px;
+    background: linear-gradient(
+      180deg,
+      rgb(20, 94, 88) 0%,
+      rgb(36, 162, 156) 100%
+    );
+  }
+  
+  .element-about-us .text-wrapper-29 {
+    position: relative;
+    align-self: stretch;
+    height: 41px;
+    margin-top: -1.00px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .text-wrapper-30 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 35px;
+  }
+  
+  .element-about-us .frame-6 {
+    display: flex;
+    flex-direction: column;
+    width: 732px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 1px;
+    position: absolute;
+    top: 3237px;
+    left: 100px;
+  }
+  
+  .element-about-us .text-wrapper-31 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #232323;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 60px;
+  }
+  
+  .element-about-us .text-wrapper-32 {
+    position: relative;
+    width: 720px;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #575757;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 35px;
+  }
+  
+  .element-about-us .pexels-photo-by-hng {
+    position: absolute;
+    width: 208px;
+    height: 141px;
+    top: 3174px;
+    left: 870px;
+    object-fit: cover;
+  }
+  
+  .element-about-us .pexels-photo-by {
+    position: absolute;
+    width: 203px;
+    height: 136px;
+    top: 3227px;
+    left: 1102px;
+    object-fit: cover;
+  }
+  
+  .element-about-us .pexels-photo-by-fox {
+    position: absolute;
+    width: 199px;
+    height: 133px;
+    top: 3387px;
+    left: 1106px;
+    object-fit: cover;
+  }
+  
+  .element-about-us .pexels-photo-by-luis {
+    position: absolute;
+    width: 215px;
+    height: 143px;
+    top: 3339px;
+    left: 867px;
+    object-fit: cover;
+  }
+  
+  .element-about-us .overlap-4 {
+    position: absolute;
+    width: 1224px;
+    height: 299px;
+    top: 3717px;
+    left: 108px;
+  }
+  
+  .element-about-us .rectangle-5 {
+    position: absolute;
+    width: 441px;
+    height: 299px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-about-us .frame-7 {
+    display: inline-flex;
+    align-items: center;
+    gap: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-about-us .rectangle-6 {
+    position: relative;
+    width: 441px;
+    height: 299px;
+  }
+  
+  .element-about-us .text-wrapper-33 {
+    position: relative;
+    width: 753px;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #575757;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 35px;
+  }
+  
+  .element-about-us .frame-8 {
+    display: inline-flex;
+    align-items: center;
+    gap: 30px;
+    position: absolute;
+    top: 4069px;
+    left: 108px;
+  }
+  
+  .element-about-us .we-re-committed-to {
+    position: relative;
+    width: 756px;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #575757;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 35px;
+  }
+  
+  .element-about-us .overlap-5 {
+    position: absolute;
+    width: 214px;
+    height: 107px;
+    top: 4878px;
+    left: 613px;
+  }
+  
+  .element-about-us .text-wrapper-34 {
+    position: absolute;
+    width: 214px;
+    top: 0;
+    left: 0;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #232323;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .text-wrapper-35 {
+    position: absolute;
+    width: 161px;
+    top: 45px;
+    left: 26px;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #575757;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .overlap-6 {
+    position: absolute;
+    width: 286px;
+    height: 112px;
+    top: 5592px;
+    left: 577px;
+  }
+  
+  .element-about-us .text-wrapper-36 {
+    position: absolute;
+    width: 214px;
+    top: 0;
+    left: 36px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #232323;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .text-wrapper-37 {
+    position: absolute;
+    width: 286px;
+    top: 50px;
+    left: 0;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #575757;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .text-wrapper-38 {
+    position: absolute;
+    width: 435px;
+    top: 4561px;
+    left: 512px;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #575757;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .user-testimonial {
+    position: absolute;
+    width: 608px;
+    height: 344px;
+    top: 5007px;
+    left: 104px;
+    border-radius: 27px;
+    border: 1px solid;
+    border-color: #24a29c;
+  }
+  
+  .element-about-us .rectangle-7 {
+    position: absolute;
+    width: 264px;
+    height: 240px;
+    top: 29px;
+    left: 23px;
+    object-fit: cover;
+  }
+  
+  .element-about-us .group-6 {
+    position: absolute;
+    width: 325px;
+    height: 324px;
+    top: 11px;
+    left: 288px;
+  }
+  
+  .element-about-us .overlap-group-4 {
+    position: absolute;
+    width: 319px;
+    height: 240px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-about-us .text-wrapper-39 {
+    position: absolute;
+    width: 253px;
+    top: 0;
+    left: 0;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #232323;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .text-wrapper-40 {
+    position: absolute;
+    width: 297px;
+    top: 50px;
+    left: 22px;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #575757;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 38px;
+  }
+  
+  .element-about-us .overlap-7 {
+    position: absolute;
+    width: 154px;
+    height: 84px;
+    top: 240px;
+    left: 17px;
+  }
+  
+  .element-about-us .text-wrapper-41 {
+    position: absolute;
+    width: 127px;
+    top: 22px;
+    left: 0;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #575757;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .mask-group {
+    position: absolute;
+    width: 149px;
+    height: 33px;
+    top: 0;
+    left: 5px;
+  }
+  
+  .element-about-us .user-testimonial-2 {
+    position: absolute;
+    width: 608px;
+    height: 344px;
+    top: 5007px;
+    left: 728px;
+    border-radius: 27px;
+    border: 1px solid;
+    border-color: #24a29c;
+  }
+  
+  .element-about-us .progress-bar {
+    position: absolute;
+    width: 297px;
+    height: 22px;
+    top: 5401px;
+    left: 571px;
+  }
+  
+  .element-about-us .rectangle-8 {
+    position: absolute;
+    width: 85px;
+    height: 22px;
+    top: 0;
+    left: 0;
+    background-color: #24a29c;
+    border-radius: 25px;
+  }
+  
+  .element-about-us .rectangle-9 {
+    position: absolute;
+    width: 85px;
+    height: 22px;
+    top: 0;
+    left: 106px;
+    background-color: #dcdcdc;
+    border-radius: 25px;
+  }
+  
+  .element-about-us .rectangle-10 {
+    position: absolute;
+    width: 85px;
+    height: 22px;
+    top: 0;
+    left: 212px;
+    background-color: #dcdcdc;
+    border-radius: 25px;
+  }
+  
+  .element-about-us .overlap-wrapper {
+    position: absolute;
+    width: 329px;
+    height: 62px;
+    top: 5722px;
+    left: 77px;
+  }
+  
+  .element-about-us .overlap-8 {
+    position: relative;
+    width: 327px;
+    height: 62px;
+  }
+  
+  .element-about-us .text-wrapper-42 {
+    position: absolute;
+    width: 327px;
+    top: 0;
+    left: 0;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #232323;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .group-7 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 14px;
+    left: 27px;
+  }
+  
+  .element-about-us .rectangle-11 {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 0;
+    left: 0;
+    background-color: #145e58;
+    border-radius: 4px;
+  }
+  
+  .element-about-us .rectangle-12 {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 0;
+    left: 19px;
+    background-color: #232323;
+    border-radius: 4px;
+  }
+  
+  .element-about-us .rectangle-13 {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 19px;
+    left: 19px;
+    background-color: #145e58;
+    border-radius: 4px;
+  }
+  
+  .element-about-us .rectangle-14 {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 19px;
+    left: 0;
+    background-color: #232323;
+    border-radius: 4px;
+  }
+  
+  .element-about-us .text-wrapper-43 {
+    position: absolute;
+    width: 426px;
+    top: 6979px;
+    left: 225px;
+    font-family: "Open Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #232323;
+    font-size: 30px;
+    letter-spacing: -0.60px;
+    line-height: normal;
+  }
+  
+  .element-about-us .let-s-align-our {
+    position: absolute;
+    width: 415px;
+    top: 7028px;
+    left: 225px;
+    opacity: 0.8;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #232323;
+    font-size: 16px;
+    letter-spacing: -0.16px;
+    line-height: 26px;
+  }
+  
+  .element-about-us .names {
+    display: flex;
+    width: 426px;
+    align-items: flex-start;
+    gap: 14px;
+    position: absolute;
+    top: 7115px;
+    left: 225px;
+    background-color: #ffffff0d;
+  }
+  
+  .element-about-us .fname {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 14px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    margin-top: -1.00px;
+    margin-bottom: -1.00px;
+    margin-left: -1.00px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #dcdcdc;
+  }
+  
+  .element-about-us .text-wrapper-44 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #00000099;
+    font-size: 15px;
+    letter-spacing: -0.15px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .lname {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 14px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    margin-top: -1.00px;
+    margin-bottom: -1.00px;
+    margin-right: -1.00px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #dcdcdc;
+  }
+  
+  .element-about-us .email {
+    width: 428px;
+    padding: 12px 14px;
+    position: absolute;
+    top: 7170px;
+    left: 224px;
+    background-color: #ffffff0d;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #dcdcdc;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #00000099;
+    font-size: 15px;
+    letter-spacing: -0.15px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .phone {
+    width: 428px;
+    padding: 12px 14px;
+    position: absolute;
+    top: 7226px;
+    left: 224px;
+    background-color: #ffffff0d;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #dcdcdc;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #00000099;
+    font-size: 15px;
+    letter-spacing: -0.15px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .message {
+    display: flex;
+    flex-direction: column;
+    width: 428px;
+    height: 111px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 14px;
+    position: absolute;
+    top: 7282px;
+    left: 224px;
+    background-color: #ffffff0d;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #dcdcdc;
+  }
+  
+  .element-about-us .submit {
+    display: flex;
+    width: 426px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 10px;
+    position: absolute;
+    top: 7406px;
+    left: 225px;
+    border-radius: 5px;
+    background: linear-gradient(180deg, rgb(20, 94, 88) 100%);
+  }
+  
+  .element-about-us .text-wrapper-45 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: -0.15px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .image {
+    position: relative;
+    width: 25px;
+    height: 12px;
+  }
+  
+  .element-about-us .overlap-9 {
+    position: absolute;
+    width: 516px;
+    height: 489px;
+    top: 6980px;
+    left: 699px;
+  }
+  
+  .element-about-us .two-lunar-months {
+    position: absolute;
+    width: 466px;
+    top: 396px;
+    left: 50px;
+    opacity: 0.7;
+    font-family: var(--text-font-family);
+    font-weight: var(--text-font-weight);
+    color: var(--pure-white);
+    font-size: var(--text-font-size);
+    letter-spacing: var(--text-letter-spacing);
+    line-height: var(--text-line-height);
+    font-style: var(--text-font-style);
+  }
+  
+  .element-about-us .text-wrapper-46 {
+    position: absolute;
+    top: 440px;
+    left: 50px;
+    opacity: 0.8;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: -0.16px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .rectangle-15 {
+    position: absolute;
+    width: 516px;
+    height: 489px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .element-about-us .frame-9 {
+    display: flex;
+    flex-direction: column;
+    width: 484px;
+    align-items: center;
+    gap: 8px;
+    position: absolute;
+    top: 6845px;
+    left: 478px;
+  }
+  
+  .element-about-us .get-in-touch {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .element-about-us .reach-out-and-let-s {
+    position: relative;
+    align-self: stretch;
+    opacity: 0.7;
+    font-family: "Verdana-Regular", Helvetica;
+    font-weight: 400;
+    color: #232323;
+    font-size: 16px;
+    letter-spacing: -0.32px;
+    line-height: normal;
+  }
+  
+  .element-about-us .frame-10 {
+    display: flex;
+    flex-direction: column;
+    width: 1232px;
+    align-items: flex-start;
+    gap: 24px;
+    position: absolute;
+    top: 5820px;
+    left: 104px;
+  }
+  
+  .element-about-us .component {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 117px;
+    background-color: #f4f4f4;
+    box-shadow: 1px 1px 4px 1px #00000040;
+  }
+  
+  .element-about-us .text-wrapper-47 {
+    position: absolute;
+    top: 28px;
+    left: 1144px;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #232323;
+    font-size: 55px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .text-wrapper-48 {
+    position: absolute;
+    width: 853px;
+    top: 42px;
+    left: 28px;
+    font-family: "Open Sans-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #232323;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 35px;
+    white-space: nowrap;
+  }
+  
+  .element-about-us .component-2 {
+    position: absolute;
+    width: 1234px;
+    height: 83px;
+    top: 4624px;
+    left: 105px;
+    overflow: hidden;
+  }
+  
+  .element-about-us .frame-11 {
+    display: inline-flex;
+    align-items: center;
+    gap: 35px;
+    position: relative;
+  }
+  
+  .element-about-us .frame-12 {
+    display: flex;
+    flex-direction: column;
+    width: 131px;
+    align-items: center;
+    gap: 4px;
+    position: relative;
+  }
+  
+  .element-about-us .logos-upwork {
+    position: relative;
+    width: 131px;
+    height: 38px;
+  }
+  
+  .element-about-us .frame-13 {
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .element-about-us .star {
+    position: relative;
+    width: 21.88px;
+    height: 20.8px;
+  }
+  
+  .element-about-us .frame-14 {
+    display: flex;
+    flex-direction: column;
+    width: 115px;
+    align-items: center;
+    gap: 4px;
+    position: relative;
+  }
+  
+  .element-about-us .logos-google {
+    position: relative;
+    width: 110px;
+    height: 36px;
+  }
+  
+  .element-about-us .frame-15 {
+    display: flex;
+    align-items: center;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .element-about-us .redbull {
+    position: relative;
+    width: 81px;
+    height: 49.55px;
+  }
+  
+  .element-about-us .frame-16 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .element-about-us .frame-17 {
+    display: flex;
+    flex-direction: column;
+    width: 121px;
+    align-items: flex-start;
+    gap: 11px;
+    position: relative;
+  }
+  
+  .element-about-us .deloitte {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 22px;
+  }
+  
+  .element-about-us .frame-18 {
+    display: flex;
+    flex-direction: column;
+    width: 92px;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+  }
+  
+  .element-about-us .atari {
+    position: relative;
+    width: 87px;
+    height: 24px;
+  }
+  
+  .element-about-us .frame-19 {
+    display: flex;
+    flex-direction: column;
+    width: 107px;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .element-about-us .asus {
+    position: relative;
+    width: 107px;
+    height: 28px;
+  }
+  
+  .element-about-us .frame-20 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .element-about-us .frame-21 {
+    display: flex;
+    flex-direction: column;
+    width: 123px;
+    align-items: flex-end;
+    gap: 1px;
+    position: relative;
+  }
+  
+  .element-about-us .logos-yahoo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    overflow: hidden;
+  }
+  
+  .element-about-us .vector {
+    position: relative;
+    width: 115px;
+    height: 32.78px;
+  }
+  
+  .element-about-us .frame-22 {
+    display: flex;
+    height: 23px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .element-about-us .frame-23 {
+    display: flex;
+    flex-direction: column;
+    width: 123px;
+    align-items: flex-end;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .element-about-us .logos-microsoft {
+    position: relative;
+    width: 123px;
+    height: 27px;
+  }
+  
+  .element-about-us .frame-24 {
+    display: flex;
+    flex-direction: column;
+    width: 92px;
+    align-items: center;
+    gap: 7px;
+    position: relative;
+  }
+  
+  .element-about-us .logos-mastercard {
+    position: relative;
+    width: 14.5px;
+    height: 53px;
+  }
+  
+  .element-about-us .frame-25 {
+    display: flex;
+    height: 23px;
+    align-items: center;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .element-about-us .star-2 {
+    position: relative;
+    width: 3.44px;
+    height: 20.8px;
+  }
+  
+  .element-about-us .star-3 {
+    margin-top: -654.00px;
+    margin-right: -11881.00px;
+    position: relative;
+    width: 23px;
+    height: 23px;
+  }
+  
+  .element-about-us .logos-upwork-2 {
+    position: relative;
+    width: 131px;
+    height: 38px;
+    margin-top: -603.00px;
+    margin-right: -11823.00px;
+  }
+  
+  .element-about-us .star-4 {
+    margin-top: -645.00px;
+    margin-right: -11723.00px;
+    position: relative;
+    width: 23px;
+    height: 23px;
+  }
+  
+  .element-about-us .logos-google-2 {
+    position: relative;
+    width: 110px;
+    height: 36px;
+    margin-top: -604.00px;
+    margin-right: -11652.00px;
+  }
+  
+  .element-about-us .star-5 {
+    margin-top: -644.00px;
+    margin-right: -11565.00px;
+    position: relative;
+    width: 23px;
+    height: 23px;
+  }
+  
+  .element-about-us .redbull-2 {
+    position: relative;
+    width: 81px;
+    height: 49.55px;
+    margin-top: -597.22px;
+    margin-right: -11473.00px;
+  }
+  
+  .element-about-us .star-6 {
+    margin-top: -650.78px;
+    margin-right: -11415.00px;
+    position: relative;
+    width: 23px;
+    height: 23px;
+  }
+  
+  .element-about-us .deloitte-2 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 22px;
+    margin-top: -607.50px;
+    margin-right: -11357.00px;
+  }
+  
+  .element-about-us .star-7 {
+    margin-top: -640.50px;
+    margin-right: -11259.00px;
+    position: relative;
+    width: 23px;
+    height: 23px;
+  }
+  
+  .element-about-us .atari-2 {
+    position: relative;
+    width: 87px;
+    height: 24px;
+    margin-top: -607.00px;
+    margin-right: -11196.00px;
+  }
+  
+  .element-about-us .star-8 {
+    margin-top: -641.00px;
+    margin-right: -11132.00px;
+    position: relative;
+    width: 23px;
+    height: 23px;
+  }
+  
+  .element-about-us .asus-2 {
+    position: relative;
+    width: 107px;
+    height: 28px;
+    margin-top: -606.00px;
+    margin-right: -11074.00px;
+  }
+  
+  .element-about-us .star-9 {
+    margin-top: -642.00px;
+    margin-right: -10997.50px;
+    position: relative;
+    width: 23px;
+    height: 23px;
+  }
+  
+  .element-about-us .logos-yahoo-2 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    margin-top: -607.11px;
+    margin-right: -10932.00px;
+  }
+  
+  .element-about-us .star-10 {
+    margin-top: -640.89px;
+    margin-right: -10832.00px;
+    position: relative;
+    width: 23px;
+    height: 23px;
+  }
+  
+  .element-about-us .logos-microsoft-2 {
+    position: relative;
+    width: 123px;
+    height: 27px;
+    margin-top: -606.50px;
+    margin-right: -10774.00px;
+  }
+  
+  .element-about-us .star-11 {
+    margin-top: -641.50px;
+    margin-right: -10674.00px;
+    position: relative;
+    width: 23px;
+    height: 23px;
+  }
+  
+  .element-about-us .logos-mastercard-2 {
+    position: relative;
+    width: 67px;
+    height: 53px;
+    margin-top: -594.00px;
+    margin-right: -10591.00px;
+  }
+  
+  .element-about-us .star-12 {
+    margin-top: -654.00px;
+    margin-right: -10547.00px;
+    position: relative;
+    width: 23px;
+    height: 23px;
+  }

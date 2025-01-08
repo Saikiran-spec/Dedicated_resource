@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive About Us</title>
+    <style>
+        /* General Styling */
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .section {
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #ccc;
+        }
+
+        /* Why Should You Hire Movement Effect */
+        .why-hire {
+            display: flex;
+            overflow: hidden;
+            white-space: nowrap;
+            animation: moveSections 5s infinite alternate ease-in-out;
+        }
+
+        .why-hire div {
+            min-width: 100%;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        @keyframes moveSections {
+            0% {
+                transform: translateX(0);
+            }
+            100% {
+                transform: translateX(-100%);
+            }
+        }
+
+        /* Continuous Scroll Effect */
+        .companies {
+            display: flex;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+
+        .companies img {
+            margin-right: 10px;
+            animation: scrollCompanies 10s linear infinite;
+        }
+
+        @keyframes scrollCompanies {
+            0% {
+                transform: translateX(100%);
+            }
+            100% {
+                transform: translateX(-100%);
+            }
+        }
+
+        /* Glow Effect for Testimonials */
+        .testimonial {
+            background-color: #fff;
+            padding: 20px;
+            margin: 10px;
+            border: 1px solid #ccc;
+            transition: box-shadow 0.3s ease-in-out;
+        }
+
+        .testimonial:hover {
+            box-shadow: 0 0 20px rgba(0, 128, 255, 0.6);
+        }
+
+        /* FAQ Toggle Styling */
+        .faq {
+            margin: 20px;
+        }
+
+        .faq-item {
+            margin-bottom: 10px;
+        }
+
+        .faq-question {
+            cursor: pointer;
+            background-color: #eee;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+
+        .faq-answer {
+            display: none;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-top: none;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <!-- Why Should You Hire -->
+    <div class="section why-hire">
+        <div>Why should you hire dedicated developers? Section 1 Content</div>
+        <div>Why should you hire dedicated developers? Section 2 Content</div>
+    </div>
+
+    <!-- Continuous Scrolling Companies -->
+    <div class="section companies">
+        <img src="company1.png" alt="Company 1" width="100">
+        <img src="company2.png" alt="Company 2" width="100">
+        <img src="company3.png" alt="Company 3" width="100">
+        <img src="company4.png" alt="Company 4" width="100">
+    </div>
+
+    <!-- Testimonials -->
+    <div class="section testimonials">
+        <div class="testimonial">Testimonial 1: Feedback from Client A</div>
+        <div class="testimonial">Testimonial 2: Feedback from Client B</div>
+    </div>
+
+    <!-- FAQ -->
+    <div class="section faq">
+        <div class="faq-item">
+            <div class="faq-question">Question 1: What is this?</div>
+            <div class="faq-answer">Answer 1: This is the answer to question 1.</div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-question">Question 2: How does it work?</div>
+            <div class="faq-answer">Answer 2: This is the answer to question 2.</div>
+        </div>
+    </div>
+
+    <script>
+        // FAQ Toggle Script
+        document.querySelectorAll('.faq-question').forEach(question => {
+            question.addEventListener('click', () => {
+                const answer = question.nextElementSibling;
+                answer.style.display = answer.style.display === 'block' ? 'none' : 'block';
+            });
+        });
+    </script>
+</body>
+</html>
